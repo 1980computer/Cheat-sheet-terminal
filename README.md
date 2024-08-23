@@ -1,4 +1,4 @@
-# Terminal cheatsheet
+# Cheat sheet terminal
 A cheatsheet of commands for my workflow.
 
 ### Local
