@@ -1,8 +1,7 @@
 # Cheat sheet
 A cheatsheet of commands for my workflow.
 
-## - git & Terminal Cheat Sheet
-Local Navigation (Shell)
+## Local Navigation (Shell)
 - cd – go to home
 - cd ~/Desktop – absolute path
 - cd .. – up one directory
