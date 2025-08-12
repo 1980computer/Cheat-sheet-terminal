@@ -101,25 +101,25 @@ Local Navigation (Shell)
 - git remote set-url origin <url>
 - git fetch origin --prune
 
-.- gitignore Example
+## .- gitignore Example
 node_modules/
 *.log
 .env
 .DS_Store
 
-To apply .- gitignore after adding files:
+## To apply .- gitignore after adding files:
 - git rm -r --cached .
 - git add .
 - git commit -m "apply .- gitignore"
 
-Useful Config
+## Useful Config
 - git config --global user.name "Your Name"
 - git config --global user.email "you@example.com"
 - git config --global pull.rebase true
 - git config --global init.defaultBranch main
 - git config --global alias.lg "log --oneline --graph --decorate --all"
 
-Common Fixes for Push
+## Common Fixes for Push
 - git push -u origin <branch>
 - git branch -m <old> <new>
 - git push origin :<old> <new>
